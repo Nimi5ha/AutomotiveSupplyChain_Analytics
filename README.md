@@ -128,6 +128,20 @@ Cougar was the first car model sold; top revenue from models like Century, Camar
 
 All orders had >20% discounts → reassess discounting strategy for high-inventory products.
 
+---
+
+# Dashboard
+
+Home Page
+
+<img width="915" height="501" alt="image" src="https://github.com/user-attachments/assets/cbece5d2-9db0-4997-b869-db2429907470" />
+
+Best/Worst Seller
+
+<img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/227610a9-4067-4cea-b4d0-e3fa5f5e4494" />
+
+
+
 
 
 ---
